@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\GitHub\\AuraG3\\Source\\Aura\\Aura.Build.cs",
+		"D:\\GitHub\\AuraG3\\Source\\Aura.Target.cs",
+		"D:\\GitHub\\AuraG3\\Source\\AuraEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
